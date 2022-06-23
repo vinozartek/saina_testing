@@ -11,5 +11,5 @@ with a big hole blown through the middle of my life,
 <i>I started having these dreams of flying. --</i>
 
 4
-00:00:22,000 --> 01:00:20,000
-<i>Flutter Developer. --</i>
+00:00:22,000 --> 03:00:20,000
+<i>Flutter Developer - Subtitle. --</i>
